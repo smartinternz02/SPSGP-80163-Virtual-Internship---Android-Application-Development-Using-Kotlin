@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="quantity">%s Kg</string>
+</resources>
